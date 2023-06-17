@@ -10,6 +10,7 @@ const App = () => {
               <Hero />
               <About />
               <Experience />
+              <Tech />
               <Contact />
               <Feedbacks />
               <div className ="relative z-0">
